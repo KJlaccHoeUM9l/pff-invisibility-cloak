@@ -25,7 +25,7 @@ def main():
         final_image = invisibility_cloak.get_final_image(frame, background_mask, image_color_mask)
 
         video_writer.write(final_image)
-        cv2.imshow('Camouflage Pro Note G63 Max Super Incredible X5M 3.5 JZ Turbo S+', final_image)
+        cv2.imshow('Camouflage Pro G63 Note Max Super Incredible X5M 3.5 JZ Turbo S+', final_image)
         if current_key & 0xFF == ord('q'):
             break
 
