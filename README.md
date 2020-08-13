@@ -7,6 +7,10 @@
 
 ## Демонстарция работы
 
+Ниже приведена анимация с демонстрацией работы. Также доступны другие demo-видео
+по ссылке [здесь](3rdparty/media/videos) и шуточное видео, снятое с использованием 
+программы [здесь](https://drive.google.com/file/d/1228ODFKNepDaT-eUJe-EgjcxPtUqnn0g/view?usp=sharing).
+
 ![demo](3rdparty/media/demo.gif)
 
 ## Использование
